@@ -11,7 +11,7 @@ This is a simple ATM (Automated Teller Machine) project implemented in Python. T
 
 ## Requirements
 
-- Python 3.10
+- Python 3.12
 
 ## Usage
 
