@@ -1,7 +1,7 @@
 '''the below is simple atm project it is developed by upcoming developer C.MUTHUPANDIYAN,yeah let's go the code'''
 '''HERE I ONLY USE CONDITION STATEMENTS AND OOPS CONCEPTS'''
 
-class ATM:#class 
+class ATM: #class and class name is ATM 
     def __init__(self):#initazling the instant variable"
         self.available=4000
     def display(self):#here,give the option to the customer .what kind need they want?
